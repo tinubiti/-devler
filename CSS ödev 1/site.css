@@ -1,0 +1,19 @@
+h1 {
+    color:red; font-size: 20x;
+}
+
+h2 { color: yellow;}
+.fs-16 {
+    font-size: 15x;
+}
+
+body {
+    background-color: rgb(162, 182, 189);
+    text-align: center;
+    list-style-position: inside;
+    font-family: serif;
+}
+
+h3 {color: purple;
+}
+

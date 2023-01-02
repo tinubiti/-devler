@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.logo {
+    height: 113px;
+    width: 350px;
+    background-color: red;
+    margin: auto;
+}
+
+#slogan {
+    text-align: center;
+    margin-bottom: 0px;
+    font-weight: 400;
+}
+
+.ortakutu {
+    margin: auto;
+    width: 1246px;
+    height: 67px;
+    background-color: rgb(239, 232, 232);
+}
+
+/* link kısmı */
+
+.linkkutu {
+    width: 1250px;
+    height: 70px;
+    margin: auto;
+    margin-top: 2px;
+    }
+
+.kutu {
+    width: 414px;
+    height: 67px;
+    text-align: center;
+    margin-left: 2px;
+    float: left;
+}
+
+/* kutu tasarımları */
+
+.k1 {background-color: #7EE5DA ;}
+.k2 { background-color: #70CCC2;font-size: small;}
+.k3 {background-color: #62B3AA;}
+
+/* arama çubuğu */
+
+.arama-cubuk {
+    height: 16px;
+    width: 280px;
+    margin: auto;
+    margin-bottom: 2px;
+    display:block;
+}
+
+.tus1{
+    margin-left: 41%;
+}
+
+.cpr {
+    text-align: center;
+    font-size: small;
+}
